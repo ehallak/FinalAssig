@@ -1,2 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(395,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
+  RISC-V.cpp
+c:\users\bruger\desktop\dtu\first semester\computer architecture and engineering\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(167): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\bruger\desktop\dtu\first semester\computer architecture and engineering\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(167): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
   RISC-V.vcxproj -> C:\Users\Bruger\Desktop\DTU\First semester\Computer Architecture and Engineering\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
