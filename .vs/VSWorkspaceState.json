@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\RISC-V",
-    "\\RISC-V\\RISC-V"
+    "\\RISC-V\\RISC-V",
+    "\\tests"
   ],
   "SelectedNode": "\\RISC-V\\RISC-V.sln",
   "PreviewInSolutionExplorer": false
