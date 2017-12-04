@@ -1,3 +1,5 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(395,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
-  Skipping... (no relevant changes detected)
-  RISC-V.cpp
+﻿  RISC-V.cpp
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(367): warning C4293: '>>': shift count negative or too big, undefined behavior
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(372): warning C4293: '>>': shift count negative or too big, undefined behavior
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(377): warning C4293: '>>': shift count negative or too big, undefined behavior
+  RISC-V.vcxproj -> C:\Users\Lucas\Desktop\DTU 5. semester\02155 Computerarkitektur\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
