@@ -1,1 +1,3 @@
-﻿  RISC-V.vcxproj -> C:\Users\Lucas\Desktop\DTU 5. semester\02155 Computerarkitektur\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(395,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
+  RISC-V.cpp
+  RISC-V.vcxproj -> C:\Users\Bruger\Desktop\DTU\First semester\Computer Architecture and Engineering\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
