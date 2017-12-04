@@ -1,1 +1,5 @@
-﻿  RISC-V.vcxproj -> C:\Users\Lucas\Desktop\DTU 5. semester\02155 Computerarkitektur\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
+﻿  RISC-V.cpp
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(356): warning C4293: '>>': shift count negative or too big, undefined behavior
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(361): warning C4293: '>>': shift count negative or too big, undefined behavior
+c:\users\lucas\desktop\dtu 5. semester\02155 computerarkitektur\assignment3\finalassig\risc-v\risc-v\risc-v.cpp(366): warning C4293: '>>': shift count negative or too big, undefined behavior
+  RISC-V.vcxproj -> C:\Users\Lucas\Desktop\DTU 5. semester\02155 Computerarkitektur\Assignment3\FinalAssig\RISC-V\Debug\RISC-V.exe
